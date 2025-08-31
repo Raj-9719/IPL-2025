@@ -1,0 +1,12 @@
+Questions for the Matches CSV file.
+
+How many matches did each team win in IPL 2025?
+Which teams won the toss most often in IPL 2025?
+What decisions did teams make after winning the toss in IPL 2025?
+How often did the toss-winning team also win the match in IPL 2025?
+How many matches were won by teams batting first in IPL 2025?
+How many matches were won by teams fielding first in IPL 2025?
+Who won the most "Player of the Match" awards in IPL 2025 (Top 10)?
+Which team had the highest win percentage in IPL 2025?
+Did winning the toss influence match results in IPL 2025?
+How many matches were played at each venue in IPL 2025?
